@@ -143,7 +143,7 @@ retained messages for you:
 
 .. code-block:: bash
 
-    esphome configuration.yaml clean-mqtt
+    esphome clean-mqtt configuration.yaml
 
 With Docker:
 
